@@ -7,7 +7,7 @@
 
 ## 🏗️ System Architecture
 
-![Multi-Agent Architecture Diagram](MLOps_Architecture_Diagram.png)
+![Multi-Agent Architecture Diagram](Architecture_diagram/MLOps_Architecture_Diagram.png)
 
 ---
 
